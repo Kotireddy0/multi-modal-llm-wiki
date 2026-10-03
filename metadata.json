@@ -1,0 +1,8 @@
+{
+  "name": "WikiSynth - Multimodal Source to LLM Wiki & Cited Q&A",
+  "description": "Transform video, audio, PDFs, and documents into an interactive encyclopedic LLM Wiki with verifiable source citations, deep Q&A, interactive media players, and knowledge graphs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
